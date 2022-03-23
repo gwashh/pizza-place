@@ -1,6 +1,6 @@
 # pizza-place
 # {Perry's Pizza}
-#### {A website Mariga's pizza resturant }, {22/03/2022}
+#### {A website Perry's pizza resturant }, {22/03/2022}
 #### By **{Perry sugut}**
 ## Description
 {A website where ou can order a pizza from Mariga's pizza restaurant}
